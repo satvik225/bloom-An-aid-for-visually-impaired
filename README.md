@@ -23,7 +23,7 @@ Bloom is an Android application that aims to provide guidance and assistance to 
 1. Clone the repository to your local machine.
 
 ```shell
-git clone https://github.com/meetsavla2468/bloom.git
+git clone https://github.com/satvik225/bloom-An-aid-for-visually-impaired
 ```
 
 2. Open the project in Android Studio.
